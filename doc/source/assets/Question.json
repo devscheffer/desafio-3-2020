@@ -1,0 +1,128 @@
+{
+	"art1": {
+		"id": "olhar digita 1",
+		"perguntas": [
+			"como e feito a classificacao de galaxias e estrelas",
+			"como ocorre processo de automatizacao de pesquisas astronomicas",
+			"como o morpheus processa imagens"
+		]
+	},
+	"art2": {
+		"id": "olhar digita 2",
+		"perguntas": [
+			"como sao feitas as roupas dos astronautas",
+			"como a ia pode auxiliar na otimizacao estrutural de pecas",
+			"como o projeto xemu utiliza inteligencia artificial"
+		]
+	},
+	"art2": {
+		"id": "olhar digita 3",
+		"perguntas": [
+			"bloco universal",
+			"teoria da relatividade",
+			"albert einstein",
+			"teoria dos holofotes em movimento"
+		]
+	},
+	"art2": {
+		"id": "olhar digita 4",
+		"perguntas": [
+			"oferta de credito",
+			"mercado financeiro",
+			"forum economico mundial",
+			"previsao do risco de credito",
+			"processadores quanticos",
+			"ordem dos advogados"
+		]
+	},
+	"art2": {
+		"id": "olhar digita 5",
+		"perguntas": ["mudanças radicais", "quarta revolucao industrial"]
+	},
+	"art2": {
+		"id": "olhar digita 6",
+		"perguntas": [
+			"ibm watson",
+			"chatbot thay microsoft",
+			"norman psicopata"
+		]
+	},
+	"art2": {
+		"id": "olhar digita 7",
+		"perguntas": ["cancer de mama maligno", "mamografia e biomarcadores"]
+	},
+	"art2": {
+		"id": "startse 1",
+		"perguntas": [
+			"carros autonomos brasil",
+			"obstaculos do transito",
+			"primeiro veiculo autonomo",
+			"projetos brasileiros"
+		]
+	},
+	"vid1": {
+		"id": "ted 1",
+		"perguntas": [
+			"livros em braile",
+			"deficiencia visual",
+			"home page reader",
+			"escutar email",
+			"assistencia cognitiva"
+		]
+	},
+	"vid1": {
+		"id": "ted 2",
+		"perguntas": [
+			"mecanica quantica",
+			"ondas e particulas",
+			"buraco negro",
+			"leis de movimento de newton",
+			"fundamentos da fisica",
+			"experimento ovo"
+		]
+	},
+	"vid1": {
+		"id": "ted 3",
+		"perguntas": [
+			"utilizacao siri",
+			"autodesk design",
+			"como melhorar a memoria"
+		]
+	},
+	"vid1": {
+		"id": "ted 4",
+		"perguntas": [
+			"paradoxo da burocracia",
+			"concetracao de enzima",
+			"cognificacao"
+		]
+	},
+	"vid1": {
+		"id": "ted 5",
+		"perguntas": [
+			"ruinas antigas",
+			"piramide do egito",
+			"descobertas em sitios arqueologicos",
+			"desafios de uma escavacao",
+			"saques feito pelo estado islamico",
+			"saques no egito"
+		]
+	},
+	"vid1": {
+		"id": "ted 6",
+		"perguntas": [
+			"trilha sonora",
+			"composicao musical",
+			"age of amazement",
+			"musica composta por aiva"
+		]
+	},
+	"vid1": {
+		"id": "ted 7",
+		"perguntas": [
+			"revolucao industrial",
+			"bomba inteligente",
+			"como obter robo"
+		]
+	}
+}
